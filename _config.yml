@@ -1,0 +1,20 @@
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+
+title: GlobeLAN
+#email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  VDU er en frivillig organistasjon som arrangerer datatreffet GlobeLAN,
+  og står bak Kodeklubben Tønsberg og Kodeklubben Horten.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://globelan.no" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+author: Vestfold Digitale Ungdom
+#facebook_username: VestfoldDigitaleUngdom    # XXX: for langt, putter i teksten over i stedet så lenge
